@@ -1,0 +1,8 @@
+Quando se inicia uma pasta que tenha .git com o vs code ele tem a função de mandar 
+commits e pushs sem ter que utilizar do terminal
+
+precisa logar no terminal somente com
+git config --global user.email helio.araujo@solve4me.com.br
+git config --global user.name Helio Hugo
+
+e escrever sempre a mensagem
